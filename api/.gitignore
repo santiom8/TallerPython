@@ -1,0 +1,27 @@
+# Entorno virtual
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Archivos de base de datos o datos generados
+*.db
+library.db
+
+# Logs, caches y cobertura
+*.log
+.coverage
+htmlcov/
+
+# Configs de IDE
+.vscode/
+.idea/
+
+# Archivos del sistema (Windows, macOS)
+Thumbs.db
+.DS_Store
+
+# Paquetes instalados localmente
+*.egg-info/
+dist/
+build/
