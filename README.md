@@ -1,3 +1,4 @@
+## PUNTO 1. 
 # Library API (In-Memory)
 
 ## 📋 Descripción  
@@ -202,4 +203,4 @@ Permite listar, crear, eliminar y transformar recursos (páginas y estado “ven
    ```bash
    curl -X PATCH "http://127.0.0.1:8000/books/NoExiste/pages?pages=10"
    ```
-
+## PUNTO 2. PRESENTE CERTIFICADO COURSERA 
