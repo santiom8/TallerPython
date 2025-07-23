@@ -202,7 +202,3 @@ Permite listar, crear, eliminar y transformar recursos (páginas y estado “ven
    curl -X PATCH "http://127.0.0.1:8000/books/NoExiste/pages?pages=10"
    ```
 
----
-
-¡Listo! Este **README.md** documenta todo lo que necesitas para instalar, correr y probar tu API. 🎉
-
