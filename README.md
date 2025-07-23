@@ -58,6 +58,7 @@ Permite listar, crear, eliminar y transformar recursos (páginas y estado “ven
   `http://127.0.0.1:8000/redoc`  
 - **Esquema OpenAPI (JSON)**:  
   `http://127.0.0.1:8000/openapi.json`
+<img width="1194" height="687" alt="image" src="https://github.com/user-attachments/assets/3afaa0ff-b174-4447-a727-6628cf4a5f14" />
 
 ---
 
